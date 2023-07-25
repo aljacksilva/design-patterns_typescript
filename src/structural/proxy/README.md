@@ -46,7 +46,7 @@ Apesar de estruturas parecidas, todas as intenções refletem exatamente o que c
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

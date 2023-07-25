@@ -12,7 +12,7 @@ Sobre o Factory Method
 
 Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 Aplicabilidade
 
     Use o factory method quando não souber com certeza quais os tipos de objetos o seu código vai precisar

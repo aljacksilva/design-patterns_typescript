@@ -33,7 +33,7 @@ Além disso, eles também recomendam que você só use o padrão Flyweight em um
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

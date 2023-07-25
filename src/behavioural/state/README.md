@@ -50,7 +50,7 @@ Dessa forma, ao invés de condicionais estamos usando polimorfismo para mudar o 
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

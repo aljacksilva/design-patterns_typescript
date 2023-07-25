@@ -54,7 +54,7 @@ A única coisa que também precisamos, mas que eu não mencionei até aqui é um
 No meu exemplo as interfaces de produtos seriam: UI, Button e Input (mencionei isso com : Interface logo após a assinatura dos métodos no exemplo acima).
 Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 Aplicabilidade
 
 Use o padrão Abstract Factory quando:

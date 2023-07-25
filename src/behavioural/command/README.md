@@ -24,7 +24,7 @@ Perceba que `invoker` é quem solicita a ação, no nosso caso o botão, `comman
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

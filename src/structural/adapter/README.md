@@ -23,7 +23,7 @@ Isso também pode ser usado para outros fins, como adaptar código legado, adici
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

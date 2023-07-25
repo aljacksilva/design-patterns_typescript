@@ -6,13 +6,9 @@
 
 ---
 
-## Sobre o Template Method
-
----
-
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

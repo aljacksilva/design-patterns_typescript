@@ -22,7 +22,7 @@ Você pode usar quaisquer artifícios da linguagem de programação escolhida ou
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

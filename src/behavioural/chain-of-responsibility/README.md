@@ -6,13 +6,9 @@
 
 ---
 
-## Sobre o Chain Of Responsibility
-
----
-
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

@@ -20,7 +20,7 @@ O bridge é idêntico ao adapter, o que muda é apenas sua intenção. Veja esse
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

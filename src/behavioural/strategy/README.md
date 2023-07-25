@@ -114,7 +114,7 @@ Para trocar de promoção de desconto, apenas crie uma nova classe com o algorit
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

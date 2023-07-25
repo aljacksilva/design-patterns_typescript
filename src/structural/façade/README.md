@@ -22,7 +22,7 @@ Como esse padrão visa unificar coisas que poderiam estar separadas no sistema, 
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 

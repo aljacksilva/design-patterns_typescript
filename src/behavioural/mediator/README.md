@@ -22,7 +22,7 @@ Por exemplo, se existem dois campos de `Email`/`Password`, e um botão `Submit` 
 
 ## Estrutura
 
-Veja a pasta diagramas.
+Veja a pasta diagram.
 
 ## Aplicabilidade
 
